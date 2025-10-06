@@ -58,7 +58,7 @@ Navigate to http://localhost:5173 (or the port shown in the terminal).
 
 ### 📁 Project Structure
 
-src/
+src/<br/>
 ├── components/
 │ ├── MainContainer.jsx # Main app wrapper
 │ ├── Header.jsx # App header with theme toggle
