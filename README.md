@@ -59,16 +59,16 @@ Navigate to http://localhost:5173 (or the port shown in the terminal).
 ### 📁 Project Structure
 
 src/<br/>
-├── components/
-│ ├── MainContainer.jsx # Main app wrapper
-│ ├── Header.jsx # App header with theme toggle
-│ ├── NewTodo.jsx # Add new todo form
-│ ├── ShowTodoList.jsx # Todo list container
-│ ├── ListShow.jsx # Todo items with drag & drop
-│ ├── TodoItem.jsx # Individual todo item
-│ └── Footer.jsx # Filter and clear controls
-├── theme/
-│ └── ThemeContext.jsx # Theme management context
+├── components/<br/>
+│ ├── MainContainer.jsx # Main app wrapper<br/>
+│ ├── Header.jsx # App header with theme toggle<br/>
+│ ├── NewTodo.jsx # Add new todo form<br/>
+│ ├── ShowTodoList.jsx # Todo list container<br/>
+│ ├── ListShow.jsx # Todo items with drag & drop<br/>
+│ ├── TodoItem.jsx # Individual todo item<br/>
+│ └── Footer.jsx # Filter and clear controls<br/>
+├── theme/<br/>
+│ └── ThemeContext.jsx # Theme management context<br/>
 └── App.jsx # Root component
 
 ### 🎨 Customization
