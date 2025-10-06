@@ -70,6 +70,10 @@ src/<br/>
 ├── theme/<br/>
 │ └── ThemeContext.jsx # Theme management context<br/>
 └── App.jsx # Root component
+### 🎨 Demo
+
+<img width="1366" height="768" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/adb8416f-64a1-40fa-a0f2-37c50771ba33" />
+![Uploading Screenshot (36).png…]()
 
 ### 🎨 Customization
 
