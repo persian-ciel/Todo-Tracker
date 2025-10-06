@@ -77,7 +77,7 @@ src/<br/>
 ### 🎨 Demo
 
 <img width="1366" height="768" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/adb8416f-64a1-40fa-a0f2-37c50771ba33" />
-![Uploading Screenshot (36).png…]()
+<img width="1366" height="768" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/184ad24a-974f-4599-b99c-558582f78acc" />
 
 ### 🎨 Customization
 
