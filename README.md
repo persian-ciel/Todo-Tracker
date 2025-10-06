@@ -56,6 +56,10 @@ A responsive Todo List application built with React, featuring drag-and-drop fun
 **5- Open in Browser**
 Navigate to http://localhost:5173 (or the port shown in the terminal).
 
+### Preview
+
+Youcan see the site on https://todo-tracker-omega.vercel.app
+
 ### 📁 Project Structure
 
 src/<br/>
