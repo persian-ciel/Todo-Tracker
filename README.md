@@ -42,17 +42,17 @@ A responsive Todo List application built with React, featuring drag-and-drop fun
     cd Todo-Tracker
     `
 **2- Install Dependencies**
-`bash
+    ```bash
     npm install
-    `
+    ```
 **3- Install Drag & Drop Dependencies**
-`bash
+    ```bash
     npm install @dnd-kit/core @dnd-kit/sortable @dnd-kit/utilities
-    `
+    ```
 **4- Run the Development Server**
-`bash
+    ```bash
     npm run dev
-    `
+    ```
 **5- Open in Browser**
 Navigate to http://localhost:5173 (or the port shown in the terminal).
 
@@ -76,8 +76,8 @@ src/<br/>
 └── App.jsx # Root component
 ### 🎨 Demo
 
-<img width="1366" height="768" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/adb8416f-64a1-40fa-a0f2-37c50771ba33" />
-<img width="1366" height="768" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/184ad24a-974f-4599-b99c-558582f78acc" />
+<img width="1366" height="592" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/8d351854-8106-48ad-a53a-b07c010590bf" />
+<img width="1366" height="593" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/89c7aed6-13bd-48bf-8096-735f27c89bb5" />
 
 ### 🎨 Customization
 
