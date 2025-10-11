@@ -37,19 +37,23 @@ A responsive Todo List application built with React, featuring drag-and-drop fun
 ### Installation
 
 **1- Clone the Repository**
-`bash
+
+    ```bash
     git clone https://github.com/persian-ciel/Todo-Tracker.git
     cd Todo-Tracker
-    `
+    ```
 **2- Install Dependencies**
+
     ```bash
     npm install
     ```
 **3- Install Drag & Drop Dependencies**
+
     ```bash
     npm install @dnd-kit/core @dnd-kit/sortable @dnd-kit/utilities
     ```
 **4- Run the Development Server**
+
     ```bash
     npm run dev
     ```
